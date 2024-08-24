@@ -2,8 +2,8 @@
   "name": "blog-list",
   "private": true,
   "version": "1.0.0",
-  "engine": {
-    "node": "16.x",
+  "engines": {
+    "node": "^10.13 || 12 || 14 || 15 || 16",
     "npm": ">=6"
   },
   "dependencies": {
